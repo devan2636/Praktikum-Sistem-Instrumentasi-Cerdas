@@ -42,5 +42,5 @@ Berikut adalah urutan silabus praktikum yang diimplementasikan dalam repositori 
 ├── 05_Edge_AI/
 ├── 06_Proyek_Sederhana_1/
 ├── 07_Proyek_Sederhana_2/
-└── docs/                <-- Dokumentasi tambahan & skema rangkaian
+└── docs/           
 
