@@ -56,6 +56,6 @@ Untuk mendukung praktikum ini, kita menggunakan beberapa library *open-source* t
 *Bandung Institute of Technology (ITB)*
 
 **Fariska Aulia A.**
-Politeknik Negeri Bandung
+*Politeknik Negeri Bandung*
 ---
 Copyright © 2026 - Sistem Instrumentasi Cerdas
