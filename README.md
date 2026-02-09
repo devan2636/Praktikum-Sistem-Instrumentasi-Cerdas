@@ -23,9 +23,9 @@ Repositori ini berisi materi, dokumentasi, dan kode sumber untuk rangkaian prakt
 Untuk mendukung praktikum ini, kita menggunakan beberapa library *open-source* ternama sebagai basis komunikasi dan pemrosesan data:
 
 * **[RadioHead](https://github.com/PaulStoffregen/RadioHead)** - Library utama untuk manajemen paket data pada berbagai modul radio (LoRa, nRF24L01, RFM69). Sangat penting untuk modul **Praktikum 1-3**.
-* **[TensorFlow Lite Micro](https://github.com/tensorflow/tflite-micro)** - Framework utama untuk menjalankan model Machine Learning di mikrokontroler. Digunakan pada **Praktikum 5**.
-* **[Supabase-Arduino](https://github.com/arthuro555/supabase-arduino)** - Client library untuk menghubungkan ESP32 langsung ke database Supabase.
-* **[ArduinoJson](https://github.com/bblanchon/ArduinoJson)** - Library standar untuk parsing data JSON dalam komunikasi IoT.
+* **[TensorFlow Lite Micro](#)** - Framework utama untuk menjalankan model Machine Learning di mikrokontroler. Digunakan pada **Praktikum 5**.
+* **[Supabase-Arduino](#)** - Client library untuk menghubungkan ESP32 langsung ke database Supabase.
+* **[ArduinoJson](#)** - Library standar untuk parsing data JSON dalam komunikasi IoT.
 
 ---
 
