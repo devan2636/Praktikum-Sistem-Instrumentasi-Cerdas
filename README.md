@@ -52,10 +52,11 @@ Untuk mendukung praktikum ini, kita menggunakan beberapa library *open-source* t
 ---
 
 ## 👨‍🏫 Instruktur
-**Devandri Suherman**
-*Bandung Institute of Technology (ITB)*
+**(1)Devandri Suherman,(2)Fariska Aulia A.**
+*(1)Bandung Institute of Technology (ITB)*
+*(2)Politeknik Negeri Bandung*
 
-**Fariska Aulia A.**
+****
 *Politeknik Negeri Bandung*
 ---
 Copyright © 2026 - Sistem Instrumentasi Cerdas
