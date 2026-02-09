@@ -55,5 +55,7 @@ Untuk mendukung praktikum ini, kita menggunakan beberapa library *open-source* t
 **Devandri Suherman**
 *Bandung Institute of Technology (ITB)*
 
+**Fariska Aulia A.**
+Politeknik Negeri Bandung
 ---
 Copyright © 2026 - Sistem Instrumentasi Cerdas
