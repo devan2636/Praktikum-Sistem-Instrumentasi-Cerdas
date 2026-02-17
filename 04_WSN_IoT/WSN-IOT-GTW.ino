@@ -1,3 +1,11 @@
+/**
+* Sample Code HTTP IoT
+* Modify by :
+*           Devandri Suherman (23225027)
+*           Bandung, 17-02-2026
+* Copyright 2026
+*/
+
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
