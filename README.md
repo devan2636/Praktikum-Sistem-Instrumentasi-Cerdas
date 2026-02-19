@@ -42,7 +42,7 @@ Untuk mendukung praktikum ini, kita menggunakan beberapa library *open-source* t
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/username-anda/nama-repo.git](https://github.com/username-anda/nama-repo.git)
+    git clone [https://github.com/devan2636/Praktikum-Sistem-Instrumentasi-Cerdas.git](https://github.com/devan2636/Praktikum-Sistem-Instrumentasi-Cerdas.git)
     ```
 2.  **Instalasi RadioHead:**
     Unduh library [RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/) dan masukkan ke folder `libraries` di Arduino IDE Anda.
