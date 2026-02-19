@@ -1,8 +1,8 @@
 # TinyML
-
+References cloning from https://github.com/thommaskevin/TinyML/
 ## Repository
 
-- 01 - [Decision Tree](https://github.com/thommaskevin/TinyML/tree/main/01_decision_tree)
+- 01 - [Decision Tree](https://github.com/devan2636/TinyML/tree/main/01_decision_tree)
 
 - 02 - [Random Forest](https://github.com/thommaskevin/TinyML/tree/main/02_random_forest)
 
